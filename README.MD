@@ -1,0 +1,3 @@
+THIS TASK CONTENT....
+
+difference between dacument and window objects
